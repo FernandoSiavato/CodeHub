@@ -1,5 +1,5 @@
 /*
- * Reto #4
+ * Reto #1
  * ÁREA DE UN POLÍGONO
  * Fecha publicación enunciado: 17/08/22
  * Fecha publicación resolución:

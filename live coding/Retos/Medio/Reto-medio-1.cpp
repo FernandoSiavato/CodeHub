@@ -1,5 +1,5 @@
 /*
- * Reto #3
+ * Reto #1
  * ¿ES UN NÚMERO PRIMO?
  * Fecha publicación enunciado: 17/08/22
  * Fecha publicación resolución: 

@@ -1,5 +1,5 @@
 /*
- * Reto #5
+ * Reto #1
  * ASPECT RATIO DE UNA IMAGEN
  * Fecha publicación enunciado: 17/08/22
  * Fecha publicación resolución: 
